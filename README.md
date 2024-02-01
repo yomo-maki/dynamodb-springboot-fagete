@@ -1,0 +1,1 @@
+# dynamodb-springboot-fagete
